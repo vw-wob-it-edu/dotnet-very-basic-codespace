@@ -5,19 +5,19 @@
 1. 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/vw-wob-it-edu/dotnet-very-basic-codespace)
 
-2. create new console project
+2. create new project in TERMINAL
 
-```console
-@knstntn1 ➜ /workspaces/dotnet-very-basic-codespace (master) $ dotnet new console --name MyFirstProject --output MyFirstProject
+<pre>
+@knstntn1 ➜ /workspaces/dotnet-very-basic-codespace (master) $ <b>dotnet new console --name MyFirstProject --output MyFirstProject</b>
 
 ...
 Restore succeeded.
-```
+</pre>
 
-3. Test
-```bash
-@knstntn1 ➜ /workspaces/dotnet-very-basic-codespace (master) $ cd MyFirstProject
 
-@knstntn1 ➜ /workspaces/dotnet-very-basic-codespace/MyFirstProject (master) $ dotnet run
+3. Test in TERMINAL
+<pre>
+@knstntn1 ➜ /workspaces/dotnet-very-basic-codespace (master) $ <b>cd MyFirstProject</b>
+@knstntn1 ➜ /workspaces/dotnet-very-basic-codespace/MyFirstProject (master) $ <b>dotnet run</b>
 Hello, World!
-```
+</pre>
